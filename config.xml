@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:rim="http://www.blackberry.com/ns/widgets"
+        version="1.0.0" id="EyeTest">
+
+  <author href=""
+          rim:copyright="">KasandraDuran</author>
+
+  <name>Eye Test</name>
+<feature id="blackberry.app">
+    <param name="orientation" value="portrait" />
+</feature>
+
+  <content src="index.html" />
+
+  
+  <icon src="icon.png"/>
+
+
+  <feature id="blackberry.ui.dialog"/>
+
+  <rim:permissions>
+  </rim:permissions>
+
+</widget> 
